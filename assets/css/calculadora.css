@@ -1,0 +1,22 @@
+body{
+    background-color: lightcyan;
+
+}
+
+.btn {
+
+    min-width: 60px;    /* xClaudio: Se ajusta tamaño de botoneras. */
+    max-width: 60px;    /* xClaudio: Se ajusta tamaño de botoneras. */
+
+  /*  width: 75px;
+    height: 45px;
+    padding: 1%; */
+}
+
+#igualBtn{
+ 
+    min-width: 128px;   /* xClaudio: Se ajusta tamaño de botonera =. */
+    max-width: 128px;   /* xClaudio: Se ajusta tamaño de botonera =. */
+
+}
+
