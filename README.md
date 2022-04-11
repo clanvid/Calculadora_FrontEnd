@@ -23,3 +23,6 @@ Revisiones:
 	0.02	2022-04-11
 	1. Se incorporan al proyecto Estilos CSS, Bootstrap y código JS para la operación de la Calculadora FrontEnd.
 	2. Pruebas realizadas hasta el momento, OK.
+
+	0.03	2022-04-11
+	1. Se actualizan titulos principales página web Calculadora FrontEnd.
