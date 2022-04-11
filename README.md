@@ -19,3 +19,7 @@ Revisiones:
 	3. Creación de este archivo "README.md", para el registro de modificaciones al proyecto y uso de este.
 	4. Se agrega el archivo README.md al repositorio local.
 	5. Creación e incorporación, de los archivos "calculadora.html", "calculadora.css" y "calculadora.js", al repositorio local.
+
+	0.02	2022-04-11
+	1. Se incorporan al proyecto Estilos CSS, Bootstrap y código JS para la operación de la Calculadora FrontEnd.
+	2. Pruebas realizadas hasta el momento, OK.
